@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.summary = "Collective Idea"
   s.authors = ["Daniel Morrison"]
   s.email = "daniel@collectiveidea.com"
-  s.files = ["README.md"]
+  s.files = ["collectiveidea.gemspec", "README.md"]
   s.homepage = "https://www.collectiveidea.com"
   s.license = "MIT"
 end
